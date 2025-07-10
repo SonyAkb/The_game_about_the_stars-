@@ -1,0 +1,458 @@
+﻿  main.cpp
+C:\Users\sofia\source\repos\a_game_about_the_stars\main.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  others_functions.cpp
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.h(8,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.h(9,40): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Temporary_Entity.h(33,19): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,197): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,197): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,197): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,197): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,197): warning C4244:         ]
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,154): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,154): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,154): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,154): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(23,154): warning C4244:         ]
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Stars.h(47,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(25,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(33,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(34,11): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(34,11): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(34,11): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(34,11): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(34,11): warning C4244:         ]
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(49,7): warning C4101: shift_length: неиспользованная локальная переменная
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(48,7): warning C4101: shift_side: неиспользованная локальная переменная
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Enemy.h(66,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,104): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,133): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,133): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,133): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,133): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\Nebulas.h(20,133): warning C4244:         ]
+  (компиляция исходного файла "others_functions.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+  (компиляция исходного файла "others_functions.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(17,64):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::string,float>::pair<const char(&)[28],int,0>(_Other1,_Other2 &&) noexcept(false)"
+          with
+          [
+              _Other1=const char (&)[28],
+              _Other2=int
+          ]
+  
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(34,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(34,56): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(34,56): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(34,56): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(34,56): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(42,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(42,56): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(42,56): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(42,56): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(42,56): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(117,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(121,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(125,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(131,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(130,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,111): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,111): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,111): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,111): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,111): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,149): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,149): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,149): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,149): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(132,149): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,67): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(134,41): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(138,51): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(209,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,102): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(213,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,137): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(217,107): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(223,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(222,45): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(221,95): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,104): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,104): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,104): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,104): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(283,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,104): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,104): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,104): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,104): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(287,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,104): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,104): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,104): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,104): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,104): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(291,84): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,77): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(297,47): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(296,47): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(295,106): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,109): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,109): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,109): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,109): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,109): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(305,102): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,55): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,55): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,55): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(311,55): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,114): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,114): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,114): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,114): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,114): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(313,96): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,56): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,56): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,56): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,56): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(319,56): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(321,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(321,95): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(321,95): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(321,95): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(321,95): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(322,101): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,75): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:             T=unsigned int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(339,51): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(348,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(363,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(363,39): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:             T=int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,74): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:             T=int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(413,62): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:             T=int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,73): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         with
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:             T=int
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         ]
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         and
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         [
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:             T=float
+C:\Users\sofia\source\repos\a_game_about_the_stars\others_functions.cpp(469,61): warning C4244:         ]
+  RectButton.cpp
+C:\Users\sofia\source\repos\a_game_about_the_stars\RectButton.cpp(54,40): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  sfml_button.cpp
+  Создание кода...
+  a_game_about_the_stars.vcxproj -> C:\Users\sofia\source\repos\a_game_about_the_stars\x64\Debug\a_game_about_the_stars.exe
